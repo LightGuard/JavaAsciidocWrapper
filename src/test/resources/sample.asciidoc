@@ -1,0 +1,4 @@
+JBoss Java EE 6 Workshop
+========================
+Dan Allen <dan.j.allen@gmail.com>
+1.1.0, Feb 29, 2012

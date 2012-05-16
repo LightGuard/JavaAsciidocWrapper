@@ -1,0 +1,3 @@
+JBoss Java EE 6 Workshop
+========================
+
